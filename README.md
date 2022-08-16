@@ -10,4 +10,10 @@
 React JS <br>
 TypeScript <br>
 Styled Components <br>
-Vercel
+Vite Js<br>
+Vercel <br>
+React-Hook-Form <br>
+API Context, Reducer <br>
+Zod <br>
+Phosphor-react <br>
+Date-fns <br>
