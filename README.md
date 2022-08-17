@@ -12,6 +12,7 @@ TypeScript <br>
 Styled Components <br>
 Vite Js<br>
 Vercel <br>
+React-Router-Dom <br>
 React-Hook-Form <br>
 API Context, Reducer <br>
 Zod <br>
